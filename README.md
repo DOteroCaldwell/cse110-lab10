@@ -1,4 +1,7 @@
 # Lab 10 - Starter
 
-### canny.io link
+### GitHub Pages Link
+https://doterocaldwell.github.io/cse110-lab10/
+
+### canny.io Link
 https://cse110-lab10-doterocaldwell.canny.io/
